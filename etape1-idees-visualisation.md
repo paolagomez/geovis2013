@@ -9,3 +9,8 @@ Cette étape consiste à:
 
 Idées de visualisation:
 
+- offre culturelle par 1000hab. villes vs Villes vs cantons
+- immigration taux étranger dans les villes => lien votation du 9
+- visualiser les dépenses publiques des villes et leur utilisation (secteurs?) {...comment faire?!?... on va y penser}
+- 
+==> D'ICI LA SEMAINE PROCHAINE --> 3 VARIABLES DE VISUALISATION A NOTER SUR UN BOUT DE PAPIER!!!
