@@ -7,12 +7,12 @@ Cette étape consiste à:
 - dessiner, discuter, réfléchir encore
 
 
-Idées de visualisation:
+## Idées de visualisation:
 
 - **offre culturelle** (p.ex. cinémas, théatre, etc.) par 1000 hab. villes vs villes vs cantons. Est-ce qu'on peut voir des différences entre les villes de cantons différents?
 - immigration **taux étranger** dans les villes => lien votation du 9 février
 - visualiser les **dépenses publiques** des villes et leur utilisation (différents secteurs, catégories, p.ex. transport, éducation, santé, etc.) Il n'est pas facile de visualiser cette variable. Peut-être faire des histogrammes en plus de la carte? Peut-être faire un dégradé de couleurs pour un seul des secteurs (et du coup plusieurs cartes)?
-- **indice d'inégalité** pour les revenus, p.ex. [http://fr.wikipedia.org/wiki/Coefficient_de_Gini](coefficient de Gini)
+- **indice d'inégalité** pour les revenus, p.ex. [coefficient de Gini](http://fr.wikipedia.org/wiki/Coefficient_de_Gini)
 - **coût de la vie**
 - **nombre d'emplois par 1000 habitants**; mettre p.ex. les communes de résidence en rouge et les communes de travail en bleu
 - **taux de chômage**
@@ -32,3 +32,12 @@ Idées de visualisation:
 - **niveau de formation**
 - forces des **parties politiques**
 - **évolution de la surface habitable par personne**
+
+
+## Suite des opérations
+
+1. Vérifier que les données pour les idées de visualisation ci-dessus existent vraiment sur le site Web de la (BADAC)[http://www.badac.ch].
+2. Sélectionner 2 des idées mentionnées ci-dessus et réfléchir comment les visualiser. Les mettre en lien si pertinent; du coup réfléchir comment les mettre en lien.
+
+
+**N'hésitez pas à apporter des changements à ce document!!!**
