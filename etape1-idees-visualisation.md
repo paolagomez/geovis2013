@@ -36,7 +36,7 @@ Cette étape consiste à:
 
 ## Suite des opérations
 
-1. Vérifier que les données pour les idées de visualisation ci-dessus existent vraiment sur le site Web de la (BADAC)[http://www.badac.ch].
+1. Vérifier que les données pour les idées de visualisation ci-dessus existent vraiment sur le site Web de la [BADAC](http://www.badac.ch).
 2. Sélectionner 2 des idées mentionnées ci-dessus et réfléchir comment les visualiser. Les mettre en lien si pertinent; du coup réfléchir comment les mettre en lien.
 
 
